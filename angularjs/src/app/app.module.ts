@@ -3,8 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
  
-import { FirstCompoentComponent } from './components/first-compoent/first-compoent.component';
-
+ 
 @NgModule({
   declarations: [
     
